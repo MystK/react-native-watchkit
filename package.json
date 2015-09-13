@@ -1,0 +1,19 @@
+{
+  "name": "react-native-watchkit",
+  "version": "1.0.0",
+  "description": "react native for WatchKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MystK/react-native-watchkit.git"
+  },
+  "author": "Antoine Pham its@phamap.net",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/MystK/react-native-watchkit/issues"
+  },
+  "homepage": "https://github.com/MystK/react-native-watchkit#readme"
+}
