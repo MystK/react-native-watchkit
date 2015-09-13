@@ -1,6 +1,6 @@
 {
   "name": "react-native-watchkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react native for WatchKit",
   "main": "index.js",
   "scripts": {
